@@ -20,4 +20,3 @@ Stack: React Native + Expo + TypeScript + React Navigation.
 
 ## Observações
 - Contas e partidas ficam salvas só no aparelho (AsyncStorage); não há servidor.
-- O ícone do Dota 2 (`src/assets/dota2.png`) é provisório: troque pelo arquivo oficial mantendo o nome.
